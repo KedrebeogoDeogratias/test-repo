@@ -1,4 +1,8 @@
+
 ajoute 1
 ajoute 2
-
 retrait 0
+test0
+yako 
+elemt 0
+
